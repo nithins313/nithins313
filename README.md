@@ -10,6 +10,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nithins313&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithins313&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## Projects
+
+- [Project 1](https://github.com/Dineshprasath7/RAT) - Python Based remote Torjan
+- [Project 2](https://github.com/Vengateshwaran1/Market-Playground) - Is AN Stock Market Stimulator
+- [Project 3](https://github.com/sai-venkii/Data-Watch) - Data Watch an app used to Monitor data Usage
+- [Project 3](https://github.com/Dineshprasath7/BunkerApp) - Web scraping app using Jsoup and Android Studio
 ---
 [![](https://visitcount.itsvg.in/api?id=nithins313&icon=0&color=0)](https://visitcount.itsvg.in)
 
