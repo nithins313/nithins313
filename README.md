@@ -22,5 +22,5 @@
 
 ## Websites
 
-- [Website 1](http://51.20.212.52/) -A chat bot using MERN STACK AND docker to deploy
-- [Website 2](http://13.51.146.85/) - A Food order website with mysql, react and express and docker to deply
+- [Website 1](http://13.61.123.204) -A chat bot using MERN STACK AND docker to deploy
+- [Website 2](http://51.20.212.52/) - A Food order website with mysql, react and express and docker to deply
