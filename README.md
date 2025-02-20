@@ -19,8 +19,3 @@
 - [Project 4](https://github.com/Dineshprasath7/BunkerApp) - Web scraping app using Jsoup and Android Studio
 ---
 [![](https://visitcount.itsvg.in/api?id=nithins313&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## Websites
-
-- [Website 1](http://13.61.123.204) -A chat bot using MERN STACK AND docker to deploy
-- [Website 2](http://51.20.212.52/) - A Food order website with mysql, react and express and docker to deply
